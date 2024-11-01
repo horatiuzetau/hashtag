@@ -1,3 +1,8 @@
-# https://www.robotstxt.org/robotstxt.html
+# robots.txt for rezervari.lasertagfocsani.ro
+
+# Allow all search engines to crawl the site
 User-agent: *
 Disallow:
+
+# Sitemap location
+Sitemap: https://rezervari.lasertagfocsani.ro/sitemap.xml
